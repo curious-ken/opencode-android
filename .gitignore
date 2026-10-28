@@ -1,0 +1,10 @@
+build/
+.gradle/
+local.properties
+*.iml
+.idea/
+*.apk
+*.aab
+*.idsig
+*.keystore
+!app/src/main/assets/bootstrap/*
